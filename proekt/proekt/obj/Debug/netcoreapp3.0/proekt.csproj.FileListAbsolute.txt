@@ -1,0 +1,11 @@
+/Users/denisaleksandrov/Projects/proekt/proekt/bin/Debug/netcoreapp3.0/proekt
+/Users/denisaleksandrov/Projects/proekt/proekt/bin/Debug/netcoreapp3.0/proekt.deps.json
+/Users/denisaleksandrov/Projects/proekt/proekt/bin/Debug/netcoreapp3.0/proekt.runtimeconfig.json
+/Users/denisaleksandrov/Projects/proekt/proekt/bin/Debug/netcoreapp3.0/proekt.runtimeconfig.dev.json
+/Users/denisaleksandrov/Projects/proekt/proekt/bin/Debug/netcoreapp3.0/proekt.dll
+/Users/denisaleksandrov/Projects/proekt/proekt/bin/Debug/netcoreapp3.0/proekt.pdb
+/Users/denisaleksandrov/Projects/proekt/proekt/obj/Debug/netcoreapp3.0/proekt.csprojAssemblyReference.cache
+/Users/denisaleksandrov/Projects/proekt/proekt/obj/Debug/netcoreapp3.0/proekt.AssemblyInfoInputs.cache
+/Users/denisaleksandrov/Projects/proekt/proekt/obj/Debug/netcoreapp3.0/proekt.AssemblyInfo.cs
+/Users/denisaleksandrov/Projects/proekt/proekt/obj/Debug/netcoreapp3.0/proekt.dll
+/Users/denisaleksandrov/Projects/proekt/proekt/obj/Debug/netcoreapp3.0/proekt.pdb

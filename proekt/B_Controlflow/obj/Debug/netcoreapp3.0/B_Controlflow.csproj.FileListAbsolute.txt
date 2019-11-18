@@ -1,0 +1,11 @@
+/Users/denisaleksandrov/Projects/proekt/B_Controlflow/bin/Debug/netcoreapp3.0/B_Controlflow
+/Users/denisaleksandrov/Projects/proekt/B_Controlflow/bin/Debug/netcoreapp3.0/B_Controlflow.deps.json
+/Users/denisaleksandrov/Projects/proekt/B_Controlflow/bin/Debug/netcoreapp3.0/B_Controlflow.runtimeconfig.json
+/Users/denisaleksandrov/Projects/proekt/B_Controlflow/bin/Debug/netcoreapp3.0/B_Controlflow.runtimeconfig.dev.json
+/Users/denisaleksandrov/Projects/proekt/B_Controlflow/bin/Debug/netcoreapp3.0/B_Controlflow.dll
+/Users/denisaleksandrov/Projects/proekt/B_Controlflow/bin/Debug/netcoreapp3.0/B_Controlflow.pdb
+/Users/denisaleksandrov/Projects/proekt/B_Controlflow/obj/Debug/netcoreapp3.0/B_Controlflow.csprojAssemblyReference.cache
+/Users/denisaleksandrov/Projects/proekt/B_Controlflow/obj/Debug/netcoreapp3.0/B_Controlflow.AssemblyInfoInputs.cache
+/Users/denisaleksandrov/Projects/proekt/B_Controlflow/obj/Debug/netcoreapp3.0/B_Controlflow.AssemblyInfo.cs
+/Users/denisaleksandrov/Projects/proekt/B_Controlflow/obj/Debug/netcoreapp3.0/B_Controlflow.dll
+/Users/denisaleksandrov/Projects/proekt/B_Controlflow/obj/Debug/netcoreapp3.0/B_Controlflow.pdb
